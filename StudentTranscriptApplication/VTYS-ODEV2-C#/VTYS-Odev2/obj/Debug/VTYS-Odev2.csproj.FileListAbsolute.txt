@@ -1,0 +1,201 @@
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\VTYS-Odev2.exe.config
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\VTYS-Odev2.exe
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\VTYS-Odev2.pdb
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\Npgsql.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\Npgsql.Json.NET.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\System.Buffers.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\System.Memory.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\System.Text.Json.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\System.Threading.Channels.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\System.ValueTuple.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\Npgsql.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\Npgsql.Json.NET.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\System.Buffers.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\System.Memory.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\System.Text.Json.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\System.Threading.Channels.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\bin\Debug\System.ValueTuple.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\obj\Debug\VTYS-Odev2.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\obj\Debug\VTYS-Odev2.csproj.SuggestedBindingRedirects.cache
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\obj\Debug\VTYS_Odev2.Properties.Resources.resources
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\obj\Debug\VTYS-Odev2.csproj.GenerateResource.cache
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\obj\Debug\VTYS-Odev2.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\obj\Debug\VTYS-Odev2.csproj.CopyComplete
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\obj\Debug\VTYS-Odev2.exe
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\obj\Debug\VTYS-Odev2.pdb
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\obj\Debug\VTYS_Odev2.Anasayfa.resources
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\obj\Debug\VTYS_Odev2.Form5.resources
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\obj\Debug\VTYS_Odev2.Form6.resources
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\obj\Debug\VTYS_Odev2.KayıtEklemeEkranı.resources
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\obj\Debug\VTYS_Odev2.Ders_Silme_Ekrani.resources
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\VTYS-Odev2\VTYS-Odev2\obj\Debug\VTYS_Odev2.Ders_Güncelleme_Ekranı.resources
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\VTYS-Odev2.exe.config
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\VTYS-Odev2.exe
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\VTYS-Odev2.pdb
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\Npgsql.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\Npgsql.Json.NET.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\System.Buffers.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\System.Memory.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\System.Text.Json.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\System.Threading.Channels.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\System.ValueTuple.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\Npgsql.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\Npgsql.Json.NET.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\System.Buffers.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\System.Memory.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\System.Text.Json.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\System.Threading.Channels.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\bin\Debug\System.ValueTuple.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\obj\Debug\VTYS-Odev2.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\obj\Debug\VTYS-Odev2.csproj.SuggestedBindingRedirects.cache
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\obj\Debug\VTYS_Odev2.Anasayfa.resources
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\obj\Debug\VTYS_Odev2.KayıtEklemeEkranı.resources
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\obj\Debug\VTYS_Odev2.Ders_Silme_Ekrani.resources
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\obj\Debug\VTYS_Odev2.Ders_Güncelleme_Ekranı.resources
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\obj\Debug\VTYS_Odev2.Form6.resources
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\obj\Debug\VTYS_Odev2.Properties.Resources.resources
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\obj\Debug\VTYS-Odev2.csproj.GenerateResource.cache
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\obj\Debug\VTYS-Odev2.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\obj\Debug\VTYS-Odev2.csproj.CopyComplete
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\obj\Debug\VTYS-Odev2.exe
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-Odev2-asıl-hali\VTYS-Odev2\obj\Debug\VTYS-Odev2.pdb
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\VTYS-Odev2.exe.config
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\VTYS-Odev2.exe
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\VTYS-Odev2.pdb
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\Npgsql.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\Npgsql.Json.NET.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Buffers.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Memory.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Text.Json.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Threading.Channels.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.ValueTuple.dll
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\Npgsql.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\Npgsql.Json.NET.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Buffers.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Memory.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Text.Json.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Threading.Channels.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.ValueTuple.xml
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\obj\Debug\VTYS-Odev2.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\obj\Debug\VTYS-Odev2.csproj.SuggestedBindingRedirects.cache
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\obj\Debug\VTYS_Odev2.Anasayfa.resources
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\obj\Debug\VTYS_Odev2.KayıtEklemeEkranı.resources
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\obj\Debug\VTYS_Odev2.Ders_Silme_Ekrani.resources
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\obj\Debug\VTYS_Odev2.Ders_Güncelleme_Ekranı.resources
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\obj\Debug\VTYS_Odev2.Form6.resources
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\obj\Debug\VTYS_Odev2.Properties.Resources.resources
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\obj\Debug\VTYS-Odev2.csproj.GenerateResource.cache
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\obj\Debug\VTYS-Odev2.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\obj\Debug\VTYS-Odev2.csproj.CopyComplete
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\obj\Debug\VTYS-Odev2.exe
+C:\Users\dilar\OneDrive\Masaüstü\VTYS-ODEV2-C#\VTYS-Odev2\obj\Debug\VTYS-Odev2.pdb
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\obj\Debug\VTYS-Odev2.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\obj\Debug\VTYS-Odev2.csproj.SuggestedBindingRedirects.cache
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\obj\Debug\VTYS_Odev2.Anasayfa.resources
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\obj\Debug\VTYS_Odev2.KayıtEklemeEkranı.resources
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\obj\Debug\VTYS_Odev2.Ders_Silme_Ekrani.resources
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\obj\Debug\VTYS_Odev2.Ders_Güncelleme_Ekranı.resources
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\obj\Debug\VTYS_Odev2.Form6.resources
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\obj\Debug\VTYS_Odev2.Properties.Resources.resources
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\obj\Debug\VTYS-Odev2.csproj.GenerateResource.cache
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\obj\Debug\VTYS-Odev2.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\obj\Debug\VTYS-Odev2.exe
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\obj\Debug\VTYS-Odev2.pdb
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\VTYS-Odev2.exe.config
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\VTYS-Odev2.exe
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\VTYS-Odev2.pdb
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\Npgsql.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\Npgsql.Json.NET.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Buffers.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Memory.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Text.Json.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Threading.Channels.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.ValueTuple.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\Npgsql.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\Npgsql.Json.NET.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Buffers.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Memory.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Text.Json.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Threading.Channels.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\bin\Debug\System.ValueTuple.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\210601060_Dilara_Ahretlikoğlu_VTYS_Odev#2\VTYS-ODEV2-C#\VTYS-Odev2\obj\Debug\VTYS-Odev2.csproj.CopyComplete
